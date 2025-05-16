@@ -19,7 +19,7 @@ Além disso, o sistema deve alertar visualmente e sonoramente quando algum parâ
 - **Arduino UNO**
 - **IDE do Arduino**
 - **Linguagem C++ para Arduino**
-- **Simulação no Wokwi**
+- **Simulação no TinkerCAD**
 - **Display LCD 16x2**
 - **Sensores analógicos e digitais (LM35, LDR, etc.)**
 - **Buzzer e LEDs (verde, amarelo, vermelho)**
@@ -80,7 +80,11 @@ O vídeo demonstra a proposta do projeto, funcionamento do sistema e dificuldade
 
 ## 👨‍💻 Equipe
 
+- Larissa Shiba - RM560462
+- Felipe Kolarevic - RM565230
 - Felipe Santos Nunes - RM563919
+- Mayke Santos - RM562680
+- Gabriel Henrrique - RM566553
 
 ---
 
